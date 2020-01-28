@@ -7,7 +7,8 @@ public class Hello {
         System.out.println(c);
         System.out.println("Hello, Java!!!!!!! AND GIT !!!");
 	System.out.println("Nano");
-
+	System.out.println("Red");
+	System.out.println("BLUE");
     }
     
     public static class Con {
