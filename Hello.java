@@ -4,12 +4,12 @@ public class Hello {
         double c = 11;
         c = a+c;
         c=Con.set();
-        System.out.println(a);
+        System.out.println(c);
         System.out.println("Hello, Java!!!!!!! AND GIT !!!");
 
     }
     
-    public class Con {
+    public static class Con {
         public static int set(){
             return 10;
         }
