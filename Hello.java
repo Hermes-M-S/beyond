@@ -3,7 +3,7 @@ public class Hello {
         int a = 5;
         double c = 11;
         c = a+c;
-        System.out.println(c);
+        System.out.println(a);
         System.out.println("Hello, Java!!!!!!! AND GIT !!!");
 
     }
